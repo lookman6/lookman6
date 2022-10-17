@@ -1,3 +1,4 @@
+[![MasterHead](https://www.nuvias.com/wp-content/uploads/2019/09/github-banner.jpg)]
 <h1 align="center">Hi 👋, I'm Lookman Ossam SANA</h1>
 <h3 align="center">A passionate business and computer science professionnal</h3>
 <img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSA5WMZqZAw2rVwIYcUkZMFFnaxvmY5UN99ag&usqp=CAU">
