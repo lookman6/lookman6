@@ -1,13 +1,13 @@
 ![MasterHead](https://www.nuvias.com/wp-content/uploads/2019/09/github-banner.jpg)
 <h1 align="center">Hi 👋, I'm Lookman</h1>
-<h3 align="center">A passionate business and computer science professionnal</h3>
+<h3 align="center">A Mathematics, problem solving, business and computer science enthusiast</h3>
 <img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSA5WMZqZAw2rVwIYcUkZMFFnaxvmY5UN99ag&usqp=CAU">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lookman6&label=Profile%20views&color=0e75b6&style=flat" alt="lookman6" /> </p>
 
 <p align="left"> <a href="https://twitter.com/oslookman" target="blank"><img src="https://img.shields.io/twitter/follow/oslookman?logo=twitter&style=for-the-badge" alt="oslookman" /></a> </p>
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Machine Learning**
 
 
 - 📫 How to reach me **sanalookmanossam@gmail.com**
